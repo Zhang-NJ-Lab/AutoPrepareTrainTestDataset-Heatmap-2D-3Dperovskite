@@ -16,3 +16,10 @@ Periodic Talbe of Elements.csv 元素原始描述符汇总
 ## 生成了Eg_final.csv文件，然后手动删除前几列并添加t,u形成Eg_final2.csv
 
 ## ML文件夹生成了热图，需要用用Eg_final2.csv
+
+
+## GenerateInputTableAuto.ipynb 为自动填充描述符的jupyter代码，也就是2_perovskite.py
+
+## ML.ipynb为生成热图的jupyter代码，未完待续
+
+
