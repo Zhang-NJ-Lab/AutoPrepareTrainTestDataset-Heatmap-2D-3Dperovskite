@@ -25,3 +25,6 @@ Periodic Talbe of Elements.csv 元素原始描述符汇总
 
 # ML-ModelAccuracyPoor文件夹
 add the ML model, this time ML model established, but poor accuracy!!!
+
+
+# ML-copy1     Xgboost, slightly better accuracy!
